@@ -14,5 +14,5 @@ Once the license plate is detected, each character is identified and sorted usin
 - **Character Sorting Algorithm**: A custom sorting algorithm processes the detected characters, ensuring they are in the correct order for accurate reading.
 
 
-![Example License Plate Image]([https://example.com/license-plate-image.jpg](https://github.com/Kevinjoythomas/License-Plate-Parser/blob/main/1710395685.7730865.jpg))
+![Example License Plate Image](1710395685.7730865.jpg)
  
