@@ -1,8 +1,7 @@
 ## License Plate Parser Using YOLOv5
 
-This is a License Plate Parser platform designed to accurately read and interpret characters on vehicle license plates. Our platform comprises a state-of-the-art character detection model based on YOLOv5.
+# This is a License Plate Parser model designed to accurately read and interpret characters on vehicle license plates using object detection based on YOLOv5.
 
-### Main Page
 
 #### 🛣️ License Plate Detection Using YOLOv5:
 Utilizing advanced object detection techniques, this model can accurately identify and localize license plates from images or video frames.
