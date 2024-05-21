@@ -1,4 +1,4 @@
-## License Plate Parser Using YOLOv5
+## License Plate Parser 
 
 # This is a License Plate Parser model designed to accurately read and interpret characters on vehicle license plates using object detection based on YOLOv5.
 
